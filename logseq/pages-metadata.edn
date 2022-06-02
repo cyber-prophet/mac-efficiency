@@ -113,6 +113,9 @@
  {:block/name "jun 1st, 2022",
   :block/created-at 1654095244008,
   :block/updated-at 1654095244008}
+ {:block/name "jun 2nd, 2022",
+  :block/created-at 1654117200549,
+  :block/updated-at 1654117200549}
  {:block/name "later",
   :block/created-at 1654095505489,
   :block/updated-at 1654095505489}
@@ -162,6 +165,9 @@
  {:block/name "waiting",
   :block/created-at 1654095505489,
   :block/updated-at 1654095505489}
- {:block/name "эффективность работы за маком",
+ {:block/name "work efficiency on a mac",
+  :block/created-at 1654135510877,
+  :block/updated-at 1654135510877}
+ {:block/name "эффективность работы на mac",
   :block/created-at 1654095243844, 
-  :block/updated-at 1654095243844}]
+  :block/updated-at 1654134232005}]
