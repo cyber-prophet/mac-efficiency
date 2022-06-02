@@ -1,4 +1,3 @@
-- Work efficiency course for Mac users
 - About the author
   collapsed:: true
 	- Maxim Uvarov   [maxim-uvarov.com](https://maximuvarov.com)
@@ -407,3 +406,4 @@
 	- New
 	  collapsed:: true
 		- Editing dictionary [makeuseof.com/tag/fix-bad-autocorrect-entries-train-iphone-spell-properly/](makeuseof.com/tag/fix-bad-autocorrect-entries-train-iphone-spell-properly/)
+- Work efficiency course for Mac users
