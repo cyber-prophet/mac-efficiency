@@ -51,7 +51,11 @@
 		- Автозагрузка: как выключить
 	- Фишки Mac
 	  collapsed:: true
+<<<<<<< Updated upstream
 		- Горячие клавиши Mac OS
+=======
+		- Горячие клавиши MacOS
+>>>>>>> Stashed changes
 		  collapsed:: true
 			- Где настраиваются
 			  collapsed:: true
@@ -95,6 +99,7 @@
 			- `OPTION + клик на иконках в Status bar`
 			  collapsed:: true
 				- Иконка звук
+				  collapsed:: true
 					- Выбрать устройства вывода быстро
 				- Иконка WIFI
 				  collapsed:: true
@@ -115,7 +120,11 @@
 					- Далее три пальца вправо или влево - переключать приложения
 				- Показать последние открытые файлы в приложении
 				- Нужно включить в настройках
+<<<<<<< Updated upstream
 			- Три пальца собрать
+=======
+			- Четыре пальца собрать
+>>>>>>> Stashed changes
 			  collapsed:: true
 				- Показать Launchpad
 			- Четыре пальца развести
@@ -341,7 +350,8 @@
 		- Ментальные карты
 		  collapsed:: true
 			- iThoughts [https://www.toketaware.com/](https://www.toketaware.com/)
-			- 12$
+			  collapsed:: true
+				- 12$
 		- Запись скринкастов
 		  collapsed:: true
 			- Screenflow [http://www.telestream.net/screenflow/overview.htm](http://www.telestream.net/screenflow/overview.htm)
