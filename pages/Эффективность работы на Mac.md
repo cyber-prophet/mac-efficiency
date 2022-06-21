@@ -51,6 +51,7 @@
 				- System Preferences - Keyboard - Shortcuts
 			- Частично можно увидеть в панели меню справа от команд
 			- Правило - их не нужно учить впрок, но по случаю, если вы их часто используете {{embed [[QmbKJKePyuuuC1WQfwKcNSwrzwgUNRZAiUq9DafQj7d9YR]]}}
+			-
 			- `CMD + Q`
 			  collapsed:: true
 				- Выход из приложения
