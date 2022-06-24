@@ -119,6 +119,9 @@
  {:block/name "jun 22nd, 2022",
   :block/created-at 1655827200704,
   :block/updated-at 1655827200704}
+ {:block/name "jun 24th, 2022",
+  :block/created-at 1656052289036,
+  :block/updated-at 1656052289036}
  {:block/name "jun 2nd, 2022",
   :block/created-at 1654117200549,
   :block/updated-at 1654117200549}
@@ -176,7 +179,7 @@
   :block/updated-at 1654095505489}
  {:block/name "work efficiency on a mac",
   :block/created-at 1654135510877,
-  :block/updated-at 1654135510877}
+  :block/updated-at 1656052482892}
  {:block/name "эффективность работы за маком",
   :block/created-at 1654095243844,
   :block/updated-at 1654095243844}
