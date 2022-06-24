@@ -142,7 +142,7 @@
 		  collapsed:: true
 			- Design
 			  collapsed:: true
-				- I always use the table mode (`CMD + 2` [🔗]()
+				- I always use the table mode (`CMD + 2`)
 			- Hot keys
 			  collapsed:: true
 				- `CMD + ↑`
