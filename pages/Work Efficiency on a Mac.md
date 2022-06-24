@@ -30,6 +30,7 @@
 		- Where can System Preferences be set?
 		- Interface language - English
 		- Tabs in Finder
+			-
 		- Display font size - MacBooks fave small displays
 		  collapsed:: true
 			- Display - scaling
