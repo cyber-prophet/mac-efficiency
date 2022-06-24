@@ -1,4 +1,7 @@
-[{:block/name "62961e63-0ebd-414d-9b5b-bbef3d8ca24e",
+[{:block/name "2022-06-24",
+  :block/created-at 1656072206453,
+  :block/updated-at 1656072206453}
+ {:block/name "62961e63-0ebd-414d-9b5b-bbef3d8ca24e",
   :block/created-at 1654095243827,
   :block/updated-at 1654095243827}
  {:block/name "a",
@@ -179,7 +182,7 @@
   :block/updated-at 1654095505489}
  {:block/name "work efficiency on a mac",
   :block/created-at 1654135510877,
-  :block/updated-at 1656052482892}
+  :block/updated-at 1656072073980}
  {:block/name "эффективность работы за маком",
   :block/created-at 1654095243844,
   :block/updated-at 1654095243844}
