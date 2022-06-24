@@ -113,18 +113,6 @@
  {:block/name "jun 1st, 2022",
   :block/created-at 1654095244008,
   :block/updated-at 1654095244008}
- {:block/name "jun 21st, 2022",
-  :block/created-at 1655817581121,
-  :block/updated-at 1655817581121}
- {:block/name "jun 22nd, 2022",
-  :block/created-at 1655827200704,
-  :block/updated-at 1655827200704}
- {:block/name "jun 24th, 2022",
-  :block/created-at 1656052289036,
-  :block/updated-at 1656052289036}
- {:block/name "jun 2nd, 2022",
-  :block/created-at 1654117200549,
-  :block/updated-at 1654117200549}
  {:block/name "later",
   :block/created-at 1654095505489,
   :block/updated-at 1654095505489}
@@ -174,12 +162,6 @@
  {:block/name "waiting",
   :block/created-at 1654095505489,
   :block/updated-at 1654095505489}
- {:block/name "work efficiency on a mac",
-  :block/created-at 1656068665256,
-  :block/updated-at 1656068665256}
  {:block/name "эффективность работы за маком",
-  :block/created-at 1654095243844,
-  :block/updated-at 1654095243844}
- {:block/name "эффективность работы на mac",
   :block/created-at 1654095243844, 
-  :block/updated-at 1655820233232}]
+  :block/updated-at 1654095243844}]
