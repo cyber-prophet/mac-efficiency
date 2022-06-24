@@ -35,6 +35,7 @@
 		- Display font size - MacBooks fave small displays
 		  collapsed:: true
 			- System Preferences -> Display -> Display Settings -> Scaled
+			  collapsed:: true
 				- ![image.png](../assets/image_1656056767901_0.png)
 	- Managing Mac
 	  collapsed:: true
