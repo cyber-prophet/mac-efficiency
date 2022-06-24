@@ -30,7 +30,7 @@
 		- Where can System Preferences be set?
 		- Interface language - English
 		- Tabs in Finder
-			- System Prefences -> General -> Prefer tabs -> always
+			- System Preferences -> General -> Prefer tabs -> always
 			- ![image.png](../assets/image_1656056527649_0.png)
 		- Display font size - MacBooks fave small displays
 		  collapsed:: true
