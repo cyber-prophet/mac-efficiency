@@ -67,7 +67,7 @@
 				- Close the front window but leave the application running
 				- The same as clicking the red cross in Windows applications
 				- `CMD + D`
-					- close opened file without saving
+					- on dialogue close opened file without saving
 			- `CMD + Tab`
 			  collapsed:: true
 				- Switching between applications
