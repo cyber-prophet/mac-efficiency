@@ -1,6 +1,6 @@
-[{:block/name "2022-06-26",
-  :block/created-at 1656237947448,
-  :block/updated-at 1656237947448}
+[{:block/name "2022-06-24",
+  :block/created-at 1656072206453,
+  :block/updated-at 1656072206453}
  {:block/name "62961e63-0ebd-414d-9b5b-bbef3d8ca24e",
   :block/created-at 1654095243827,
   :block/updated-at 1654095243827}
@@ -113,21 +113,6 @@
   "itunes.apple.com/us/app/swiftdrop-for-dropbox-google/id520829730",
   :block/created-at 1654095243832,
   :block/updated-at 1654095243832}
- {:block/name "jun 1st, 2022",
-  :block/created-at 1654095244008,
-  :block/updated-at 1654095244008}
- {:block/name "jun 21st, 2022",
-  :block/created-at 1655820363875,
-  :block/updated-at 1655820363875}
- {:block/name "jun 26th, 2022",
-  :block/created-at 1656237943955,
-  :block/updated-at 1656237943955}
- {:block/name "jun 2nd, 2022",
-  :block/created-at 1654117200549,
-  :block/updated-at 1654117200549}
- {:block/name "jun 3rd, 2022",
-  :block/created-at 1654203611225,
-  :block/updated-at 1654203611225}
  {:block/name "later",
   :block/created-at 1654095505489,
   :block/updated-at 1654095505489}

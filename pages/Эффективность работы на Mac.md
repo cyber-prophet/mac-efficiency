@@ -1,4 +1,5 @@
 - Курс эффективности работы на Mac
+  collapsed:: true
 	- Об авторе
 	  collapsed:: true
 		- Максим Уваров   [maxim-uvarov.com](https://maximuvarov.com)
