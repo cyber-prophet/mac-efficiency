@@ -39,10 +39,8 @@
 			- System Preferences -> Display -> Display Settings -> Scaled
 			  collapsed:: true
 				- ![image.png](../assets/image_1656056767901_0.png)
-				-
 				- ![image.png](../assets/image_1656330840486_0.png)
 				  particle:: QmUdS3yhJX1zpj5VHQjHZQSkzZRaeb6ePZ2m7qrvmqNpXR
-				-
 				- ![image.png](../assets/image_1656330867603_0.png)
 				-
 				-
