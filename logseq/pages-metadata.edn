@@ -1,6 +1,18 @@
 [{:block/name "2022-06-26",
   :block/created-at 1656237947448,
   :block/updated-at 1656237947448}
+ {:block/name "2022-06-27",
+  :block/created-at 1656323236988,
+  :block/updated-at 1656323236988}
+ {:block/name "2022-06-28",
+  :block/created-at 1656406254420,
+  :block/updated-at 1656406254420}
+ {:block/name "2022-07-01",
+  :block/created-at 1656677031730,
+  :block/updated-at 1656677031730}
+ {:block/name "2022-07-02",
+  :block/created-at 1656728502914,
+  :block/updated-at 1656728502914}
  {:block/name "62961e63-0ebd-414d-9b5b-bbef3d8ca24e",
   :block/created-at 1654095243827,
   :block/updated-at 1654095243827}
@@ -182,7 +194,7 @@
   :block/updated-at 1654095505489}
  {:block/name "work efficiency on a mac",
   :block/created-at 1654135510877,
-  :block/updated-at 1656072073980}
+  :block/updated-at 1656761854092}
  {:block/name "эффективность работы на mac",
   :block/created-at 1654095243844, 
   :block/updated-at 1655820233232}]
