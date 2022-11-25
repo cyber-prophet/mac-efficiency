@@ -7,7 +7,7 @@
 			- i-Media - 2010
 			- Wikimart - 2011-2012
 			- K50 - 2013-2015
-			- [NeedForData.ru](https://needfordata.ru/) - 2016 - present
+			- [NeedForData.ru](https://needfordata.ru/) - 2016 - 2022
 		- Consulting
 		  collapsed:: true
 			- Ozon [https://www.ozon.ru/](https://www.ozon.ru/)
@@ -409,9 +409,9 @@
 	  collapsed:: true
 		- Collecting mail from several inboxed to Gmail
 		- Alternative to
-		- CPU time consuming processes debug
+		- CPU time for processes debug
 		  collapsed:: true
-			- Shutting doen programs
+			- Shutting down programs
 		- Browser
 		  collapsed:: true
 			- `CMD + LEFT CLICK` - open in a new window
